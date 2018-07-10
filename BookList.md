@@ -6,7 +6,7 @@ This is a list of books I've read, books on my reading list, and books recommend
 ### The Five Dysfunctions of a Team
 _Patrick Lencioni_
 
-##Reading List
+## Reading List
 
 ### Turn the Ship Around
 _David Marquet_
@@ -21,7 +21,7 @@ command. Stephen R. Covey visited the Santa Fe and called it the most empowering
 
 ### The upside of stress
 
-##Recommended
+## Recommended
 
 ### What Got You Here Won’t Get You There
 _Marshall Goldsmith_
