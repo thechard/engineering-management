@@ -9,7 +9,8 @@ _Patrick Lencioni_
 ## Reading List
 
 ### Turn the Ship Around
-_David Marquet_
+###### David Marquet
+
 Turn the Ship Around! is the story of how David Marquet took the U.S. Santa Fe nuclear submarine from worst to first by challenging the U.S. Navy’s traditional leader-follower approach and implementing his own framework of leader-leader. The results revolutionised the field of leadership, as each member of Marquet’s crew became a leader and assumed responsibility for everything he did, from clerical tasks to crucial combat decisions.
 
 By embedding goodness in the practices and people, Santa Fe continued to win awards and promoted a highly disproportionate number of officers to submarine
@@ -20,6 +21,10 @@ command. Stephen R. Covey visited the Santa Fe and called it the most empowering
 ### The coaching mind
 
 ### The upside of stress
+
+### Escape Velocity
+###### Doc Norton
+https://leanpub.com/escapevelocity?__s=3rgyrnijvgbeksw7vz4d
 
 ## Recommended
 
