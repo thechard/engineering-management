@@ -6,8 +6,6 @@ This is a list of books I've read, books on my reading list, and books recommend
 ### The Five Dysfunctions of a Team
 _Patrick Lencioni_
 
-## Reading List
-
 ### Turn the Ship Around
 ###### David Marquet
 
@@ -15,6 +13,10 @@ Turn the Ship Around! is the story of how David Marquet took the U.S. Santa Fe n
 
 By embedding goodness in the practices and people, Santa Fe continued to win awards and promoted a highly disproportionate number of officers to submarine
 command. Stephen R. Covey visited the Santa Fe and called it the most empowering organization he’d ever seen.
+
+### Accelerate
+
+## Reading List
 
 ### Good Boss Bad Boss
 
