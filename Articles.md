@@ -40,6 +40,10 @@ https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manage
 Not sure the title does this one justice, it gives good tips on how to run a productive meeting with everyone's engagementalong with how to engage with people less familiar with technical jargon more effectively.
 https://www.tombartel.me/blog/communicate-effectively-without-management-speak/
 
+## On being a bad manager
+Thoughts on why it's so easy to be a "bad manager" TLDR; management takes practice.
+https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc
+
 ## To Read:
 
 On Leadership and Culture
@@ -80,11 +84,7 @@ https://www.mindtools.com/pages/article/newLDR_81.htm
 The best career advice I've recieved
 https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/
 
-Engineering Personas
-https://www.linkedin.com/pulse/engineering-personas-casey-rosenthal
 
-On being a bad manager
-https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc
 
 What Google learned from it's quest to build the perfect team
 https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
