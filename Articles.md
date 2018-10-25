@@ -36,6 +36,10 @@ https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
 A cute comic that explains the difference very simply
 https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d
 
+## How to communicate effectively as an engineer without resorting to management speak
+Not sure the title does this one justice, it gives good tips on how to run a productive meeting with everyone's engagementalong with how to engage with people less familiar with technical jargon more effectively.
+https://www.tombartel.me/blog/communicate-effectively-without-management-speak/
+
 ## To Read:
 
 On Leadership and Culture
@@ -85,5 +89,4 @@ https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc
 What Google learned from it's quest to build the perfect team
 https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 
-How to communicate effectively as an engineer without resorting to management speak
-https://www.tombartel.me/blog/communicate-effectively-without-management-speak/
+
