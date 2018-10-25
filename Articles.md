@@ -44,6 +44,18 @@ https://www.tombartel.me/blog/communicate-effectively-without-management-speak/
 Thoughts on why it's so easy to be a "bad manager" TLDR; management takes practice.
 https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc
 
+## The 5 ways to improve your self-awareness as a leader
+Some good tips on how to improve as a leader
+https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-leader-2f1464e5b00
+
+## The best career advice I've recieved
+Some good career advice if you find you've stopped progressing as an engineer
+https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/
+
+## Conflict Resolution
+Some good tips and strategies for resolving conflict
+https://www.mindtools.com/pages/article/newLDR_81.htm
+
 ## To Read:
 
 On Leadership and Culture
@@ -64,9 +76,6 @@ https://medium.com/startup-patterns/its-not-really-a-technology-problem-5b534a64
 How to fail as a new engineering manager
 https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a
 
-The 5 ways to improve your self-awareness as a leader
-https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-leader-2f1464e5b00
-
 
 From a group of individuals to a performing team: navigating the Tuckman's model
 https://leadersyndrome.wordpress.com/2013/12/22/from-a-group-of-individuals-to-a-performing-team-navigating-the-tuckmans-model/
@@ -77,13 +86,6 @@ https://intenseminimalism.com/2015/the-six-styles-of-leadership/
 
 How to corntol your emotions during a difficult conversation
 https://hbr.org/2017/12/how-to-control-your-emotions-during-a-difficult-conversation
-
-Conflict Resolution
-https://www.mindtools.com/pages/article/newLDR_81.htm
-
-The best career advice I've recieved
-https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/
-
 
 
 What Google learned from it's quest to build the perfect team
