@@ -36,7 +36,8 @@ https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
 A cute comic that explains the difference very simply
 https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d
 
-##To Read:
+## To Read:
+
 On Leadership and Culture
 https://hackernoon.com/on-leadership-and-culture-ca4d6f2a9bb0
 
