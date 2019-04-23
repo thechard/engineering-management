@@ -4,7 +4,7 @@ This is a list of books I've read, books on my reading list, and books recommend
 ## Read
 
 ### The Five Dysfunctions of a Team
-_Patrick Lencioni_
+###### Patrick Lencioni
 
 ### Turn the Ship Around
 ###### David Marquet
@@ -15,10 +15,19 @@ By embedding goodness in the practices and people, Santa Fe continued to win awa
 command. Stephen R. Covey visited the Santa Fe and called it the most empowering organization he’d ever seen.
 
 ### Accelerate
+###### Nicole Forsgren PhD, Jez Humble and Gene Kim
 
-## Reading List
+### Crucial Conversations
+###### Kerry Patterson
+
+### The Coaching Habit
+###### Michael Bungay Stanier
 
 ### Good Boss Bad Boss
+######  Robert Sutton
+
+
+## Reading List
 
 ### The coaching mind
 
@@ -28,7 +37,7 @@ command. Stephen R. Covey visited the Santa Fe and called it the most empowering
 ###### Doc Norton
 https://leanpub.com/escapevelocity?__s=3rgyrnijvgbeksw7vz4d
 
-## Recommended
+## Recommended to me
 
 ### What Got You Here Won’t Get You There
 _Marshall Goldsmith_
