@@ -5,9 +5,13 @@ This is a list of books I've read, books on my reading list, and books recommend
 
 ### The Five Dysfunctions of a Team
 ###### Patrick Lencioni
-A really interesting story that get's into how to build a great team and some of the warning signs to look out for in your team.
 
-From Amazon:
+#### Why I read this
+This book was recommended to me by my direct manager when I first became a people lead. When I first became a people lead I was the direct manager of 4 engineers and 1 qualtiy assurance engineer, all working in the same team as myself. My team wasn't very functional when I first joined. I could go on for a while about all the problems I saw, but here's a few of the biggest issues I first noticed: people worked on anything they liked, they weren't collaborative, people were being left out/behind and they couldn't easily explain why the options they chose were the best choice. 
+
+This book is a really interesting story that get's into how to build a great team and some of the warning signs to look out for in your team. This book helped me to see the forrest for the tree's and prioritise which problems in my team to tackle first.
+
+#### Summary From Amazon
 
 Kathryn Petersen, Decision Tech's CEO, faces the ultimate leadership crisis: Uniting a team in such disarray that it threatens to bring down the entire company. Will she succeed? Will she be fired? Will the company fail? Lencioni's utterly gripping tale serves as a timeless reminder that leadership requires as much courage as it does insight.
 
@@ -16,6 +20,10 @@ Throughout the story, Lencioni reveals the five dysfunctions which go to the ver
 ### Turn the Ship Around
 ###### David Marquet
 
+#### Why I read this
+This was another book that was recommended to me by my direct manager when I first became a people lead. Entering a new team that needed a lot of improvement was a new challenge for me. This book really helped me find my leadership style and gave me ideas for how to empower my team to think and improve things for themselves - rather than dictating changes to them. I also liked that it reminded me to be kind to myself. Mistakes are enevitable, especially when starting out on a leadership journey, it's important to admit your mistakes and grow from them rather than dwelling on them or letting them defeat you.
+
+#### Summary From Amazon
 Turn the Ship Around! is the story of how David Marquet took the U.S. Santa Fe nuclear submarine from worst to first by challenging the U.S. Navy’s traditional leader-follower approach and implementing his own framework of leader-leader. The results revolutionised the field of leadership, as each member of Marquet’s crew became a leader and assumed responsibility for everything he did, from clerical tasks to crucial combat decisions.
 
 By embedding goodness in the practices and people, Santa Fe continued to win awards and promoted a highly disproportionate number of officers to submarine
@@ -23,32 +31,39 @@ command. Stephen R. Covey visited the Santa Fe and called it the most empowering
 
 ### Accelerate
 ###### Nicole Forsgren PhD, Jez Humble and Gene Kim
+#### Why I read this
+#### Summary From Amazon
+
 
 ### Crucial Conversations
 ###### Kerry Patterson
+#### Why I read this
+
 this book gives great advice on how to handle difficult conversations with people. This book is not only useful for managers but for every day life. It helps give you tips on how to identify why someone might be reacting badly to a conversation you're trying to have with them and what to do about it.
+#### Summary From Amazon
 
 ### The Coaching Habit
 ###### Michael Bungay Stanier
-
+#### Why I read this
 This book has great advice on how to coach rather than tell someone what to do. Has good ideas of how to ask open ended/non-judgemental questions to help people realise for themselves what they should do next.
 
 It also has good tips and tricks on how to change your behaviour and form new habbits.
+#### Summary From Amazon
 
 ### Good Boss Bad Boss
 ######  Robert Sutton
-
+#### Why I read this
 This book was recommended by my CEO. It's a really interesting collection of tales building up to a collection of behaviours/attributes the best bosses have.
 
-From Amazon:
+#### Summary From Amazon
 
 If you are a boss who wants to do great work, what can you do about it? Good Boss, Bad Boss is devoted to answering that question. Stanford Professor Robert Sutton weaves together the best psychological and management research with compelling stories and cases to reveal the mindset and moves of the best (and worst) bosses. This book was inspired by the deluge of emails, research, phone calls, and conversations that Dr. Sutton experienced after publishing his blockbuster bestseller The No Asshole Rule.
 
-## What I want to read next
-
 ### Dare to Lead
 ###### Brene Brown
+#### Why I Read This
 
+#### Summary From Amazon
 Leadership is not about titles, status and power over people. Leaders are people who hold themselves accountable for recognising the potential in people and ideas, and developing that potential. This is a book for everyone who is ready to choose courage over comfort, make a difference and lead.
 
 When we dare to lead, we don't pretend to have the right answers; we stay curious and ask the right questions. We don't see power as finite and hoard it; we know that power becomes infinite when we share it and work to align authority and accountability. We don't avoid difficult conversations and situations; we lean into the vulnerability that’s necessary to do good work.
@@ -56,6 +71,10 @@ When we dare to lead, we don't pretend to have the right answers; we stay curiou
 But daring leadership in a culture that's defined by scarcity, fear and uncertainty requires building courage skills, which are uniquely human. The irony is that we're choosing not to invest in developing the hearts and minds of leaders at the same time we're scrambling to figure out what we have to offer that machines can't do better and faster. What can we do better? Empathy, connection and courage to start.
 
 Brené Brown spent the past two decades researching the emotions that give meaning to our lives. Over the past seven years, she found that leaders in organisations ranging from small entrepreneurial start-ups and family-owned businesses to non-profits, civic organisations and Fortune 50 companies, are asking the same questions:
+
+## What I'm reading next
+
+
 
 ## Reading Backlog
 
