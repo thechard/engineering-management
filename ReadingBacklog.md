@@ -17,7 +17,7 @@ In this classic text, Taiichi Ohno--inventor of the Toyota Production System and
 ### The Goal: A Process of Ongoing Improvement
 ###### by Eliyahu M. Goldratt, Jeff Cox
 #### Why I want to read this
-As I mentioned above I love improving efficiency and delivery. I'm also interested in how to best to help my direct reports continue to grow in their careers. I found this book in a few recommendation lists when googling books on these topics.
+As I mentioned above I love improving efficiency and delivery. I'm also interested in how to best help my direct reports continue to grow in their careers. I found this book in a few recommendation lists when googling books on these topics.
 #### Summary From Amazon
 Written in a fast-paced thriller style, The Goal, a gripping novel, is transforming management thinking throughout the world. It is a book to recommend to your friends in industry - even to your bosses - but not to your competitors. Alex Rogo is a harried plant manager working ever more desperately to try improve performance. His factory is rapidly heading for disaster. So is his marriage. He has ninety days to save his plant - or it will be closed by corporate HQ, with hundreds of job losses. It takes a chance meeting with a professor from student days - Jonah - to help him break out of conventional ways of thinking to see what needs to be done. The story of Alex's fight to save his plant is more than compulsive reading. It contains a serious message for all managers in industry and explains the ideas, which underline the Theory of Constraints (TOC), developed by Eli Goldratt.
 
