@@ -62,7 +62,7 @@ Whether you're new to the job, a veteran leader, or looking to be promoted, this
 ### First, Break All the Rules: What the World's Greatest Managers Do Differently
 ###### Marcus Buckingham, Curt Coffman, Jim Harter
 #### Why I want to read this
-This book came up in several recommendation lists for how to be a great leader. The summary made it sound like an interesting book that has the potential to help me grow my leadership skills.
+This book came up in several recommendation lists for how to be a great leader. The summary made it sound like an interesting book that has the potential to help me continue to grow my leadership skills.
 
 #### Summary From Amazon
 They actually have vastly different styles and backgrounds. Yet despite their differences, great managers share one common trait: They don't hesitate to break virtually every rule held sacred by conventional wisdom. They don't believe that, with enough training, a person can achieve anything he sets his mind to. They don't try to help people overcome their weaknesses. And, yes, they even play favorites.
