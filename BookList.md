@@ -43,8 +43,9 @@ Readers will discover how to measure the performance of their teams, and what ca
 ### Crucial Conversations Tools for Talking When Stakes Are High, Second Edition
 ###### Kerry Patterson
 #### Why I read this
+Around the time I decided to read this I was struggling with a collegue, we were often butting heads and I felt he wasn't being receptive to feedback.
+Crucial Conversations gives great advice on how to handle difficult conversations with people. This book is not only useful for managers but for every day life. It gave me tips on how to identify why someone might be reacting badly to a conversation and how to bring the conversation to a healther place so we could both move forward. I can't stress enough how useful this book was, it helped me realise how I wasn't be clear with my intentions and gave me tools for resolving challenging situations.
 
-this book gives great advice on how to handle difficult conversations with people. This book is not only useful for managers but for every day life. It helps give you tips on how to identify why someone might be reacting badly to a conversation you're trying to have with them and what to do about it.
 #### Summary From Amazon
 The first edition of Crucial Conversations exploded onto the scene and revolutionized the way millions of people communicate when stakes are high. This new edition gives you the tools to:
 
@@ -57,9 +58,8 @@ The first edition of Crucial Conversations exploded onto the scene and revolutio
 ### The Coaching Habit
 ###### Michael Bungay Stanier
 #### Why I read this
-This book has great advice on how to coach rather than tell someone what to do. Has good ideas of how to ask open ended/non-judgemental questions to help people realise for themselves what they should do next.
-
-It also has good tips and tricks on how to change your behaviour and form new habbits.
+Coaching is a fundamental skill for becoming a great people lead. I understood the high level concepts of coaching before I picked up this book, but I wasn't great at putting coaching skills into practicewhen it really mattered.
+The Coaching Habit has great advice on how to coach rather than tell someone what to do. It has good ideas of how to ask open ended/non-judgemental questions to help people realise for themselves what they should do next. It also has good tips and tricks on how to change your behaviour and form new habbits. I changed how I conducted one to one catch ups with my people because of what I learnt in this book,  and now I try to use the questions outlined in this book whenever I can.
 
 #### Summary From Amazon
 In Michael Bungay Stanier's The Coaching Habit, coaching becomes a regular, informal part of your day so managers and their teams can work less hard and have more impact.
@@ -93,6 +93,7 @@ Brené Brown spent the past two decades researching the emotions that give meani
 ### The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 ###### Stephen R. Covey 
 #### Why I'm reading this
+This book was recommended to me by one of my direct reports. I'm starting to think about where I want to head next in my career and looking for tools that can help me with that next step. This is a popular book that I heard about in some of the leadership training courses I went on when I first became a people lead. When my direct report talked about how great this book was recently I decided I should finally give it a go and see what I could learn from it.
 
 #### Summary From Amazon
 What are the habits of successful people? The 7 Habits of Highly Effective People has captivated readers for 25 years. It has transformed the lives of Presidents and CEOs, educators, parents, and students—in short, millions of people of all ages and occupations have benefited from Dr. Covey's 7 Habits book. And, it can transform you.
