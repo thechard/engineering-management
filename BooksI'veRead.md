@@ -1,7 +1,7 @@
 # Book List
 This is a list of books I've read, and the book I'm currently reading
 
-## What I'm reading next
+## What I'm reading
 ### The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 ###### Stephen R. Covey 
 #### Why I'm reading this
@@ -100,6 +100,7 @@ If you are a boss who wants to do great work, what can you do about it? Good Bos
 ### Dare to Lead
 ###### Brene Brown
 #### Why I read this
+This book was recommended by a few people, it was also rumoured it was the next book recommendation of our CEO. I didn't know know much about this book going into it so didn't really know what to expect, now that I've finished it I can't recommend it enough. This book is for anyone thinking about a leadership role, not just for managers. It covers a range of topics and all of them come down to how to be a great leader. Some of it's lessons are; How to know yourself and live into your values, to lean into the paradoxes that come with leadership and to "embrace the suck". Read. This. Book.
 
 #### Summary From Amazon
 Leadership is not about titles, status and power over people. Leaders are people who hold themselves accountable for recognising the potential in people and ideas, and developing that potential. This is a book for everyone who is ready to choose courage over comfort, make a difference and lead.
