@@ -10,7 +10,7 @@ Forget everything you thought you knew about how to motivate people - at work, a
 ### Toyota Production System: Beyond Large-Scale Production
 ###### by Taiichi Ohno, Norman Bodek
 #### Why I want to read this
-I LOVE progress. I also love efficiency and quality. I'm always looking for ways to improve in these areas and this book is considered a classic in how to improve delivery while maintaining quality.
+I _love_ progress. I also love efficiency and quality. I'm always looking for ways to improve in these areas and this book is considered a classic in how to improve delivery while maintaining quality.
 #### Summary From Amazon
 In this classic text, Taiichi Ohno--inventor of the Toyota Production System and Lean manufacturing--shares the genius that sets him apart as one of the most disciplined and creative thinkers of our time. Combining his candid insights with a rigorous analysis of Toyota's attempts at Lean production, Ohno's book explains how Lean principles can improve any production endeavor. A historical and philosophical description of just-in-time and Lean manufacturing, this work is a must read for all students of human progress. On a more practical level, it continues to provide inspiration and instruction for those seeking to improve efficiency through the elimination of waste. 
 
