@@ -7,7 +7,7 @@ This is a list of books I've read, books on my reading list, and books recommend
 ###### Patrick Lencioni
 
 #### Why I read this
-This book was recommended to me by my direct manager when I first became a people lead. When I first became a people lead I was the direct manager of 4 engineers and 1 qualtiy assurance engineer, all working in the same team as myself. My team wasn't very functional when I first joined. I could go on for a while about all the problems I saw, but here's a few of the biggest issues I first noticed: people worked on anything they liked, they weren't collaborative, people were being left out/behind and they couldn't easily explain why the options they chose were the best choice. 
+This book was recommended to me by my direct manager when I first became a people lead. When I first became a people lead I was the direct manager of 4 engineers and 1 qualtiy assurance engineer, all working in the same team as myself. My team wasn't very functional when I first joined. I could go on for a while about all the problems I saw, but here's a few of the biggest issues I first noticed: people worked on anything they liked regardless of if it helped towards the teams long term goals, they didn't collaborate with each other, people were being left out/behind and they couldn't easily explain why the options they chose were the best choice. 
 
 This book is a really interesting story that get's into how to build a great team and some of the warning signs to look out for in your team. This book helped me to see the forrest for the tree's and prioritise which problems in my team to tackle first.
 
@@ -29,18 +29,30 @@ Turn the Ship Around! is the story of how David Marquet took the U.S. Santa Fe n
 By embedding goodness in the practices and people, Santa Fe continued to win awards and promoted a highly disproportionate number of officers to submarine
 command. Stephen R. Covey visited the Santa Fe and called it the most empowering organization he’d ever seen.
 
-### Accelerate
+### Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 ###### Nicole Forsgren PhD, Jez Humble and Gene Kim
 #### Why I read this
+This book was a recommendation from a wide range of people. It became a pretty hot topic at my work and everyone was buzzing about it. I read it so I could find out what everyone was talking about. It's not the easiest read, and I'd recommend only reading the first two parts of the book - the last section tries to tell a fictional story using the information previously described but isn't all that useful or interesting.
+If you're in the tech industry and want your teams to be productive and delivering high quality work in a timely fashion, this is the book that lays out all the key qualities you need to foster in your team and company. A lot of it seemed obvious to me as I'm from a developer background but this book is able to provide research and give clear logical reasoning behind why having these practices in place lead to better performance. This book is a great resource for anyone looking to improve the delivery of their technical teams.
+
 #### Summary From Amazon
+How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research to include data collected from the State of DevOps reports conducted with Puppet, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This book presents both the findings and the science behind that research, making the information accessible for readers to apply in their own organizations.
+Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance. This book is ideal for management at every level.
 
 
-### Crucial Conversations
+### Crucial Conversations Tools for Talking When Stakes Are High, Second Edition
 ###### Kerry Patterson
 #### Why I read this
 
 this book gives great advice on how to handle difficult conversations with people. This book is not only useful for managers but for every day life. It helps give you tips on how to identify why someone might be reacting badly to a conversation you're trying to have with them and what to do about it.
 #### Summary From Amazon
+The first edition of Crucial Conversations exploded onto the scene and revolutionized the way millions of people communicate when stakes are high. This new edition gives you the tools to:
+
+    Prepare for high-stakes situations
+    Transform anger and hurt feelings into powerful dialogue
+    Make it safe to talk about almost anything
+    Be persuasive, not abrasive
+
 
 ### The Coaching Habit
 ###### Michael Bungay Stanier
@@ -48,12 +60,17 @@ this book gives great advice on how to handle difficult conversations with peopl
 This book has great advice on how to coach rather than tell someone what to do. Has good ideas of how to ask open ended/non-judgemental questions to help people realise for themselves what they should do next.
 
 It also has good tips and tricks on how to change your behaviour and form new habbits.
+
 #### Summary From Amazon
+In Michael Bungay Stanier's The Coaching Habit, coaching becomes a regular, informal part of your day so managers and their teams can work less hard and have more impact.
+Drawing on years of experience training more than 10,000 busy managers from around the globe in practical, everyday coaching skills, Bungay Stanier reveals how to unlock your peoples' potential. He unpacks seven essential coaching questions to demonstrate how--by saying less and asking more--you can develop coaching methods that produce great results.
 
 ### Good Boss Bad Boss
 ######  Robert Sutton
 #### Why I read this
-This book was recommended by my CEO. It's a really interesting collection of tales building up to a collection of behaviours/attributes the best bosses have.
+This book was recommended by my company's CEO. Our CEO challenged all the people leads to continue to grow and develop their management skills and he mentioned that this was the book he was reading at that time, and challenged us to have read it by the time we next caught up.
+
+I didn't go into this book with any expectations and didn't really know what to expect. Good Boss Bad Boss is an interesting collection of tales building up to a collection of behaviours/attributes that the best bosses have, based on the authors research and experiences. It helped highlight some common pitfalls of people management, and gave insights into the qualities some of the best people leads have. It helped me prioritise which qualities I needed to improve on next as a people lead.
 
 #### Summary From Amazon
 
@@ -61,7 +78,7 @@ If you are a boss who wants to do great work, what can you do about it? Good Bos
 
 ### Dare to Lead
 ###### Brene Brown
-#### Why I Read This
+#### Why I read this
 
 #### Summary From Amazon
 Leadership is not about titles, status and power over people. Leaders are people who hold themselves accountable for recognising the potential in people and ideas, and developing that potential. This is a book for everyone who is ready to choose courage over comfort, make a difference and lead.
@@ -73,7 +90,24 @@ But daring leadership in a culture that's defined by scarcity, fear and uncertai
 Brené Brown spent the past two decades researching the emotions that give meaning to our lives. Over the past seven years, she found that leaders in organisations ranging from small entrepreneurial start-ups and family-owned businesses to non-profits, civic organisations and Fortune 50 companies, are asking the same questions:
 
 ## What I'm reading next
+### The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+###### Stephen R. Covey 
+#### Why I'm reading this
 
+#### Summary From Amazon
+What are the habits of successful people? The 7 Habits of Highly Effective People has captivated readers for 25 years. It has transformed the lives of Presidents and CEOs, educators, parents, and students—in short, millions of people of all ages and occupations have benefited from Dr. Covey's 7 Habits book. And, it can transform you.
+
+Infographics Edition: Stephen Covey’s cherished classic commemorates the timeless wisdom and power of the 7 Habits book, and does it in a highly readable and understandable, infographics format.
+
+This 7 Habits book guides you through each habit step-by-step:
+
+    Habit 1: Be Proactive
+    Habit 2: Begin With The End In Mind
+    Habit 3: Put First Things First
+    Habit 4: Think Win-Win
+    Habit 5: Seek First To Understand Then Be Understood
+    Habit 6: Synergize
+    Habit 7: Sharpen The Saw
 
 
 ## Reading Backlog
