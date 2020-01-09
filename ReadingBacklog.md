@@ -7,6 +7,20 @@ Something I've always struggled with as a people lead is figuring out peoples un
 #### Summary From Amazon
 Forget everything you thought you knew about how to motivate people - at work, at school, at home. It's wrong. As Daniel H. Pink explains in his new and paradigm-shattering book DRIVE: THE SURPRISING TRUTH ABOUT WHAT MOTIVATES US, the secret to high performance and satisfaction in today's world is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world. Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does - and how that affects every aspect of our lives. He demonstrates that while the old-fashioned carrot-and-stick approach worked successfully in the 20th century, it's precisely the wrong way to motivate people for today's challenges. In DRIVE, he reveals the three elements of true motivation: AUTONOMY - the desire to direct our own lives; MASTERY - the urge to get better and better at something that matters; PURPOSE - the yearning to do what we do in the service of something larger than ourselves. Along the way, he takes us to companies that are enlisting new approaches to motivation and introduces us to the scientists and entrepreneurs who are pointing a bold way forward. DRIVE is bursting with big ideas - the rare book that will change how you think and transform how you live.
 
+### The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+###### by Gene Kim, Kevin Behr, George Spafford
+#### Why I want to read this
+This book is quite popular, and I hear people talking about it quite a bit. It's a tale of improving a dysfuncitonal department and it's had pretty good reviews.
+
+#### Summary From Amazon
+Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO.
+
+The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced.
+
+With the help of a prospective board member and his mysterious philosophy of The Three Ways, Bill starts to see that IT work has more in common with manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow streamline interdepartmental communications, and effectively serve the other business functions at Parts Unlimited.
+
+In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.
+
 ### Toyota Production System: Beyond Large-Scale Production
 ###### by Taiichi Ohno, Norman Bodek
 #### Why I want to read this
