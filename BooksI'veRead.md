@@ -2,27 +2,26 @@
 This is a list of books I've read, and the book I'm currently reading
 
 ## What I'm reading
-### The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
-###### Stephen R. Covey 
-#### Why I'm reading this
-This book was recommended to me by one of my direct reports. I'm starting to think about where I want to head next in my career and looking for tools that can help me with that next step. This is a popular book that I heard about in some of the leadership training courses I went on when I first became a people lead. When my direct report talked about how great this book was recently I decided I should finally give it a go and see what I could learn from it.
-
-#### Summary From Amazon
-What are the habits of successful people? The 7 Habits of Highly Effective People has captivated readers for 25 years. It has transformed the lives of Presidents and CEOs, educators, parents, and students—in short, millions of people of all ages and occupations have benefited from Dr. Covey's 7 Habits book. And, it can transform you.
-
-Infographics Edition: Stephen Covey’s cherished classic commemorates the timeless wisdom and power of the 7 Habits book, and does it in a highly readable and understandable, infographics format.
-
-This 7 Habits book guides you through each habit step-by-step:
-
-    Habit 1: Be Proactive
-    Habit 2: Begin With The End In Mind
-    Habit 3: Put First Things First
-    Habit 4: Think Win-Win
-    Habit 5: Seek First To Understand Then Be Understood
-    Habit 6: Synergize
-    Habit 7: Sharpen The Saw
+Nothing at the moment!
 
 ## Books I've Read
+### The First 90 Days
+###### Michael D. Watkins
+
+#### Why I read this
+I picked up tis book while I was interviewing for a new role. A collegue had recently moved to a similar position and said he lived by this book when he first started the role.
+
+This book gave me some good tips about what questions to ask and what to prioritise for my first 90 days in a new role and new department at my company.
+
+#### Summary From Amazon
+Transitions are a critical time for leaders. In fact, most agree that moving into a new role is the biggest challenge a manager will face. While transitions offer a chance to start fresh and make needed changes in an organization, they also place leaders in a position of acute vulnerability. Missteps made during the crucial first three months in a new role can jeopardize or even derail your success.
+
+In this updated and expanded version of the international bestseller The First 90 Days, Michael D. Watkins offers proven strategies for conquering the challenges of transitions—no matter where you are in your career. Watkins, a noted expert on leadership transitions and adviser to senior leaders in all types of organizations, also addresses today’s increasingly demanding professional landscape, where managers face not only more frequent transitions but also steeper expectations once they step into their new jobs.
+
+By walking you through every aspect of the transition scenario, Watkins identifies the most common pitfalls new leaders encounter and provides the tools and strategies you need to avoid them. You’ll learn how to secure critical early wins, an important first step in establishing yourself in your new role. Each chapter also includes checklists, practical tools, and self-assessments to help you assimilate key lessons and apply them to your own situation.
+
+Whether you’re starting a new job, being promoted from within, embarking on an overseas assignment, or being tapped as CEO, how you manage your transition will determine whether you succeed or fail. Use this book as your trusted guide.
+
 
 ### The Five Dysfunctions of a Team
 ###### Patrick Lencioni
