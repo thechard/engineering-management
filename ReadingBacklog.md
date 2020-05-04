@@ -178,3 +178,24 @@ https://leanpub.com/escapevelocity?__s=3rgyrnijvgbeksw7vz4d
 I'm interested in finding better metrics to help predict/estimate when work will be completed by. As my team has moved to Kanban velocity is more complicated to measure, yet we still need to set expectations with our stakeholders around when work will likely be completed by.
 #### Summary From Amazon
 Time and time again, I find teams struggling with Velocity as a genuinely helpful metric. In most cases, it is at best a weak tool for planning work and more often a poor tool for indicating what work will be done by when. In "Escape Velocity" we consider better alternatives to Velocity as a metric.
+
+
+### The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+###### Stephen R. Covey 
+#### Why I want to read this
+This book was recommended to me by one of my direct reports. I'm starting to think about where I want to head next in my career and looking for tools that can help me with that next step. This is a popular book that I heard about in some of the leadership training courses I went on when I first became a people lead. 
+
+#### Summary From Amazon
+What are the habits of successful people? The 7 Habits of Highly Effective People has captivated readers for 25 years. It has transformed the lives of Presidents and CEOs, educators, parents, and students—in short, millions of people of all ages and occupations have benefited from Dr. Covey's 7 Habits book. And, it can transform you.
+
+Infographics Edition: Stephen Covey’s cherished classic commemorates the timeless wisdom and power of the 7 Habits book, and does it in a highly readable and understandable, infographics format.
+
+This 7 Habits book guides you through each habit step-by-step:
+
+    Habit 1: Be Proactive
+    Habit 2: Begin With The End In Mind
+    Habit 3: Put First Things First
+    Habit 4: Think Win-Win
+    Habit 5: Seek First To Understand Then Be Understood
+    Habit 6: Synergize
+    Habit 7: Sharpen The Saw
