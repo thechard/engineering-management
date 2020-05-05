@@ -79,6 +79,14 @@ https://intenseminimalism.com/2015/the-six-styles-of-leadership/
 Some good tips on how to avoid common pitfalls new engineering managers often fall into
 https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a
 
+##Self-Selecting Teams - Why You Should Try Self-Selection
+Self-selection is a process of letting people group into small Agile and Scrum cross-functional teams
+https://www.methodsandtools.com/archive/selfselectingteams.php
+
+##Spotify’s Failed \#SquadGoals
+“The Spotify model” got a bunch of companies talking like Taylor Swift about startup culture, but four former Spotify employees reveal the truth: its eponymous way of working failed before it scaled.
+https://www.jeremiahlee.com/posts/failed-squad-goals/
+
 
 ## To Read:
 
