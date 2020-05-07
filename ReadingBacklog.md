@@ -1,5 +1,12 @@
 # Reading Backlog
 
+### Nudge: Improving Decisions About Health, Wealth, and Happiness Paperback – February 24, 2009
+###### by Richard H. Thaler, Cass R. Sunstein
+#### Why I want to read this
+A collegue was reading this book and mentioned that it had helped him think about situations differently. I'm really interested in improving my influencing abilities and this book sounds like it could help with that.
+#### Amazon Link
+https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X
+
 ### Drive: The Surprising Truth About What Motivates Us
 ###### by Daniel H. Pink
 #### Why I want to read this
